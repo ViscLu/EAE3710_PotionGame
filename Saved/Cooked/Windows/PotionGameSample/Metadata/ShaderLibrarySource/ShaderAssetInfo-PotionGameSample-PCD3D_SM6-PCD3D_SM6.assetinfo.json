@@ -1,0 +1,1126 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "59AD470090D49B35F34484FCE2F703027F6CFF51",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6B9D6000A0BE699403A7E2FF5CAE45134AA4AFD8",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two"
+			]
+		},
+		{
+			"ShaderMapHash": "9C99A800E528350BC68D88C61F769CBF7185D6C6",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_building_wood"
+			]
+		},
+		{
+			"ShaderMapHash": "7EE540016627BB55050F3CF6BDB425FC8653DFAD",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_circle9_4x4c2"
+			]
+		},
+		{
+			"ShaderMapHash": "B815D201F648D8F07B72D3716203E75151C7D121",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_subUV_dynRGB"
+			]
+		},
+		{
+			"ShaderMapHash": "D2BC7304E19C92A116A21E6CBBD2D54C88B35EFF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "EBAD1B05EE50D7FA4D15756764BFCA74C1010A40",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_magicCircle020"
+			]
+		},
+		{
+			"ShaderMapHash": "22B0DD050B9BD648B5F0D46E2B1EE493A98EE50B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "9334330B18E2F53C5A76D29F40628D67E10D942D",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles"
+			]
+		},
+		{
+			"ShaderMapHash": "1962920B5B34378DE334F959A60284F903ED9B9B",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_aura9"
+			]
+		},
+		{
+			"ShaderMapHash": "28E9670C7BEE6746529822A405C2D9EA5BA00186",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/plants_materials/M_plants"
+			]
+		},
+		{
+			"ShaderMapHash": "8BBAB60D8868D4A1C669B98851B9F7ABB677DBD3",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/trees_materials/M_foliage_bamboo"
+			]
+		},
+		{
+			"ShaderMapHash": "2DB0A60F318E70828CB080906B02C4AE3FC22D34",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/base_materials/M_wicker_wallpaper"
+			]
+		},
+		{
+			"ShaderMapHash": "740906101A6FADF71754BCAF0E0A831106816B97",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "2E774F10DB8FCBFD5C932D087FAEF2C68EFD8FC9",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0CBA1E11538F0617658F2D3F395F9E3BEF557F71",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "39DA561342A7CE585A9A0E017E74F574F89109CB",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "F41020167194BC7D7FF4809CE6A45F62FFA78E08",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "1323A416A7FD67AC95CDDC6E36D4BD08F8CD9238",
+			"Assets": [
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient01_Material",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient02_Material",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient03_Material",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient04_Material"
+			]
+		},
+		{
+			"ShaderMapHash": "77876C18D6793B6852A67A3193F26DED7349D220",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_dark",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_fire",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_thunder"
+			]
+		},
+		{
+			"ShaderMapHash": "15AAFC188C8501EF771E0665605CA679C0A19E96",
+			"Assets": [
+				"/Game/Inventory/Material/PotionUI_Circle"
+			]
+		},
+		{
+			"ShaderMapHash": "7C0C821A40528D2FD1A69A57E84885A86D56B072",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4E4BAC1B474B717D58FF22554FDE04978B5B60EC",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B165B91BFDDD43C1396DB70C38843C168F28D277",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4"
+			]
+		},
+		{
+			"ShaderMapHash": "AC8E891C45993703B6B71C3BB5A9B031623124C7",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "BDBDE11CAEF640CD3C558C226B765668232F1F5E",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "FAC2CC1D5893280137F253A5F6CDA83A64F037BA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "85D1001E5FE81FDAD670A3404290E5BC7FCA43AF",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_laser01"
+			]
+		},
+		{
+			"ShaderMapHash": "DEF56220C7BD375B4FDAB75A7F6EDB6140CF8EB9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8EF7432262121E8454796FC2E7A27749851C2451",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "4F767D225B6E01D295248ED3B81FDFA442A9B771",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_aura9"
+			]
+		},
+		{
+			"ShaderMapHash": "5C2D81233236A247D1D7A5B41ED722B9B449CF2C",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AD47FE26D931197E77625BAF122A6B86E4D27E37",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_smoke01"
+			]
+		},
+		{
+			"ShaderMapHash": "EEC4052720D2EC29471FCD9CE54B514882243E0C",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/trees_materials/M_foliage"
+			]
+		},
+		{
+			"ShaderMapHash": "4D875A2759C02D2CAE7FDD88B7D00A7353B4C89C",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "AE24AA28B7086B17AC1FD140FF57F182A7B1D17B",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_column_decoration"
+			]
+		},
+		{
+			"ShaderMapHash": "8F0DCB2A7CE346FC0CF04FA7AA3AAB468AEA5FA1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D106E52A887523C07703136CEE6424F5232C60A6",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/base_materials/M_glass"
+			]
+		},
+		{
+			"ShaderMapHash": "02952A2B245F77FEE86A5472B1E5BDCBEC365479",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "8DA1B32EC1D7189CD17186DFEFC971FCEDDFE693",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_subUV01"
+			]
+		},
+		{
+			"ShaderMapHash": "9F0DD32F8603B61C2146CF606E3FB3DA03379FEC",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/cliff_materials/M_cliff"
+			]
+		},
+		{
+			"ShaderMapHash": "FCE85F33CB5D23A0044C7F44EDA03BBC8E1CA022",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/3DAssets/ForestEnvironment/Material_0",
+				"/Game/3DAssets/ForestEnvironment/Material_1",
+				"/Game/3DAssets/ForestEnvironment/standardSurface1",
+				"/Game/3DAssets/lambert1",
+				"/Game/3DAssets/standardSurface1"
+			]
+		},
+		{
+			"ShaderMapHash": "71C403347DCDA0D1C0432916795647B42DBED6C0",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_primitive_dyn2"
+			]
+		},
+		{
+			"ShaderMapHash": "295E27370D68D6F64A9BFEC63B855D2678657E1D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "AF6AE138484284C1E70BD51C22C5D2CF6E0E3F07",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_subUV03"
+			]
+		},
+		{
+			"ShaderMapHash": "59810F3BB0C16117FC0442CF63F59DBC07540277",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_shockWave03_4x4"
+			]
+		},
+		{
+			"ShaderMapHash": "338A683B974726EA5D9A14A8E1DB72A8DE4D35C9",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_flarePillar"
+			]
+		},
+		{
+			"ShaderMapHash": "715FFD3B103E7034CACA0AD777BFC00161970EB6",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_starDust"
+			]
+		},
+		{
+			"ShaderMapHash": "B3C5B2409BD0BF8AD6666E0FD2A9E6296CDBD87C",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/postprocess_materials/M_postprocess"
+			]
+		},
+		{
+			"ShaderMapHash": "78A13641277EDB1BBD5CA8960FFBE3EFD7B2AF9A",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_thunderForBeam"
+			]
+		},
+		{
+			"ShaderMapHash": "2470F241F107D3EE5088FDBD35E8853C01E5AB33",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_door",
+				"/Game/SampleEnvironment/Asian_Village/materials/props_materials/M_lantern"
+			]
+		},
+		{
+			"ShaderMapHash": "E9FB9A43D797FD7EC76CE7FDABAE9C011646A7F2",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_base_turbulence"
+			]
+		},
+		{
+			"ShaderMapHash": "7D69814538AF87438A6CA475D5557E4A9EFD68B1",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_primitive"
+			]
+		},
+		{
+			"ShaderMapHash": "B450C8456053D4355B8D8A00FDA3FDE47DB75EC6",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_polar",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_polarG_nonD"
+			]
+		},
+		{
+			"ShaderMapHash": "B578DA45B1AB09CAADE0A478E1CDA3F386AD4676",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_base_anime"
+			]
+		},
+		{
+			"ShaderMapHash": "08147647FD92AB4A5378B343BE3829AAD4F2A7A9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F9539B475A6EE17DC2D03E4BF22BB037A0E69B82",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_flare_flash"
+			]
+		},
+		{
+			"ShaderMapHash": "54459E47C7A916E5712E6D5215E7275DBA6C2DF6",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "9C8EC447B8F0ABFC783A30C5E81742A6F21D9A66",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "723D524ADE4C9A9B4B4E99371FC40C8D010293B5",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "33FBE14B1FF8C9E33B0676F3878E8B43BB63385D",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_polar_two"
+			]
+		},
+		{
+			"ShaderMapHash": "5162314FDF3E9E1923E497D5963C296E437B6EFF",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/MI_building_wood_03_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "61FCB6502823471B76166EDB7CC0DDB99BD08A31",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_waterDust02"
+			]
+		},
+		{
+			"ShaderMapHash": "B2352451A8B93866FB529322E0377F81FFD9A501",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4EEEFE57B37BA4F0A593FF8F7898ACB5AE883720",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "DB626958631E950FB38D981C39A87E0D50CDBB22",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B03B95826AE797CFF906777C772CF19B605E271",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_building_concrete_WPO"
+			]
+		},
+		{
+			"ShaderMapHash": "C1EE5E5B5BF67801CFCF926385ECA562DDB0D7FC",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CD5B605B165D41B154904CCC5710CD155ADB8FD8",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_flare_flash_trs"
+			]
+		},
+		{
+			"ShaderMapHash": "5B3E895F182400C76628BFB02C933FD7D47A309D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "CC689B5F8F1F5E06F1F6D007327DB96DC72316D1",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD"
+			]
+		},
+		{
+			"ShaderMapHash": "53763660661F9E9A32FC9453052912986B3A94BD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "78610362E856C7992CBEDD6930A8333EBF460B53",
+			"Assets": [
+				"/Game/MainGameMap"
+			]
+		},
+		{
+			"ShaderMapHash": "9354B96348E592CF5F9F6C9F532908942FF4A50A",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/water_materials/M_waterfall"
+			]
+		},
+		{
+			"ShaderMapHash": "4029DF644295405675A86DB46AC56B95C1EC3635",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/base_materials/M_base_color",
+				"/Game/SampleEnvironment/Asian_Village/materials/water_materials/M_water_bottom"
+			]
+		},
+		{
+			"ShaderMapHash": "73BF1265460D78CD5CB82FDACF20BD1F51F4B4A9",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText"
+			]
+		},
+		{
+			"ShaderMapHash": "B8EC3365870E451011E5875068C1038FBB604F32",
+			"Assets": [
+				"/Game/MainGameMap"
+			]
+		},
+		{
+			"ShaderMapHash": "CABB0D67112456D4C753E15475B208867C0C7B5E",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/water_materials/M_water_noise"
+			]
+		},
+		{
+			"ShaderMapHash": "AB555267C70577FB9AEB2608FF7DAD07A3C6A3F3",
+			"Assets": [
+				"/Paper2D/DefaultLitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F1649467B3C6052EEF75DDF6BBE9FFF9808BD8BB",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "3D345768528CF81A725E2DC6E89359A02A9F906F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "CA9EAD6DC072047E3E2E0FEEB746B4BC31CE6558",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "52C4306E316058B2111EE579FC9E98600CE3B8E2",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_starDust_dis"
+			]
+		},
+		{
+			"ShaderMapHash": "9CD5A56EDBCCDE3968A67416D37CDD508184C04F",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_primitive_dynB_two"
+			]
+		},
+		{
+			"ShaderMapHash": "41E6DC6E9BF3FFDBDD9879CEDB87F8763CAE54BF",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "40936F71457C6D1844E1D8FF64850CDA75671409",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_stone02"
+			]
+		},
+		{
+			"ShaderMapHash": "6C7359730EB9AF435E8CB5EBCC88AD8F056EEA85",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A4657E759045A7781BDFD5DB5C00547BEEC7A756",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F2171879C7CB478DB02F0EE6AD327D029A6947F0",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "826E687A51E326B50254A38CDB41DF0C11C61552",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_circleDust"
+			]
+		},
+		{
+			"ShaderMapHash": "866C667B1CB93368A1EC5C73ABFB9603043059E9",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_Fresnel"
+			]
+		},
+		{
+			"ShaderMapHash": "4FE7A77BB1784C19338987389C91E0C5F2E14847",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/sky_materials/M_sky"
+			]
+		},
+		{
+			"ShaderMapHash": "F816D58163313773C6D646547C6DAB29361E4076",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "1863DA8122FBE222BE001EEBD4A34292B6122F01",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3B4752835D57D94907883619BFBC63ADF22851EC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1FB654858B6EE42BF226CE514C10610ACA228088",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_wooden_fence"
+			]
+		},
+		{
+			"ShaderMapHash": "865A5A855E2E01B28A0BB498D874ACEC398CBEA8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "D9FD7485A64CCF2B9676DDE29211A3E242EC8007",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "51699C89BC36DCEC9ECE190738FDA3AE09DAD649",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E20B8AF6731DB71344CB7399DB3DA95A3AE391",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_auraWall02"
+			]
+		},
+		{
+			"ShaderMapHash": "EC2C668A2049976BDAF1B8918D8C3A88A90F1114",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D2262B8B4FCB74CDEDB375DC801151EB5ED0756B",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "86C5798C5025669B8CD38CFD575BF74C5B2C962B",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "CF8D948CC18591E65C0BEC79391BFF2E9ED44441",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_starDust_sq"
+			]
+		},
+		{
+			"ShaderMapHash": "355C728DCF897410C1C1E42ACCB88D46968062EC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "D9C5F290AA2647C108B10DF5482F28FAAB008734",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_polarC_two"
+			]
+		},
+		{
+			"ShaderMapHash": "5D4A7A93A9C92BB8E067EDB82B316F8FAA7C2116",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_shine01B"
+			]
+		},
+		{
+			"ShaderMapHash": "6F72AA956D048C9E851CD02D33459B4B3372F6C8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "C50DF19629786C7EF162321170D8C4CB1217AFEE",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_chantDecoA"
+			]
+		},
+		{
+			"ShaderMapHash": "51E2FD970CC35122B49C5FC4D34A6BAD0FEE925A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6604DD9881A34C46211043191CEF657CDE26F9AF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "93310E9DE70C23AC1B09E4FDBFA2A37E901AF0AD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "95DFD09E3CEB2F93F6EEFF9E0C9545DCA4764C49",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_building_metal"
+			]
+		},
+		{
+			"ShaderMapHash": "4C5E399F02739FB058819A0EBA55DB224C5B07FC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "13C44DA06030E6E6365C61D314D00D4BB8D5ADF6",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_stormDeco01"
+			]
+		},
+		{
+			"ShaderMapHash": "480E58A0192F338736838F1A4019B09C4B8AD3A9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "C3112FA22D81E2B19EFBD7C69909A870750C882C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1484D9A2514F10AA073850EFD4B4AB5B40CBFA99",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7EA6F1A50712B9D80B2494BE2E86F1EC4F80DCA6",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_nonD"
+			]
+		},
+		{
+			"ShaderMapHash": "F05651A6629E10559A79E4D777FD21147AE7C443",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/decals_materials/M_decal_dirt"
+			]
+		},
+		{
+			"ShaderMapHash": "0E2582A6C809E190BF57BA156316112A815BF0F9",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/base_materials/M_tiles_WPO"
+			]
+		},
+		{
+			"ShaderMapHash": "2F99A9A72D0539507A39C87D5649233AB8194AC2",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/base_materials/M_stone_tiles"
+			]
+		},
+		{
+			"ShaderMapHash": "16B507A89D20E23CFB0C7967AE0080A16CD3D243",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_LightTube"
+			]
+		},
+		{
+			"ShaderMapHash": "1E9516A865328B66AC1A434CDA146CB7383A65EE",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "917DDEA92158E8F69F7B0ED774AD505B0DA3B723",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4F8605AA9A5CEE9471DF3DA53D9D066F91A0E61C",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_empty"
+			]
+		},
+		{
+			"ShaderMapHash": "C73753ACFA25521625CBF3750FA1C994D33FAB2E",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F599D2AEE86E5ECDE247FBA09C12EE61C91F4EFD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F8B6FCAEF1F2765EB77A8313C9998A5217548742",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_flareVert"
+			]
+		},
+		{
+			"ShaderMapHash": "7EE6E8B3336E141792BFA678F64146AECFDE7B57",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/base_materials/M_concrete"
+			]
+		},
+		{
+			"ShaderMapHash": "7596DBB5FF57EA6A8846041B7D3860CB19F43F7D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "7B4DF4B5A024EFA477042F5753BF57A9903F24EC",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/water_materials/M_water"
+			]
+		},
+		{
+			"ShaderMapHash": "C99415B82D490A5FCA039728173FB916C521602F",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_trail_primitive"
+			]
+		},
+		{
+			"ShaderMapHash": "DC857FB8F8060046EDEE6832EE8C171CD9B6AD5B",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9E7E9BBACE7366916CBB9C382E11AA04FF07EA35",
+			"Assets": [
+				"/Game/MainGameMap"
+			]
+		},
+		{
+			"ShaderMapHash": "A21DD3BB07B2D6829A4ACBAD60115EDAC4F5D6AA",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "30CF7FBF420618AFF4BC9E00032ACA765D10AF49",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/base_materials/M_wall_panel"
+			]
+		},
+		{
+			"ShaderMapHash": "1CBE08C04429AA8ECBAA21B1D9D9F97AF400AFF1",
+			"Assets": [
+				"/Game/Inventory/NewNiagaraSystem"
+			]
+		},
+		{
+			"ShaderMapHash": "4A17EBC36B6B99E37D5B0BBFAB7BE29639F31A1F",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored"
+			]
+		},
+		{
+			"ShaderMapHash": "870BAAC4E33E7F405B692237CBDE0F2A06781B8C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "AF630DC55ADA371A2633B2FD3C5A3BC23C697AD9",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/plants_materials/M_grass"
+			]
+		},
+		{
+			"ShaderMapHash": "4419C3C61700CF6CEDF4A43D3C6636D167A0CDB1",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_polar_primitive"
+			]
+		},
+		{
+			"ShaderMapHash": "0F0134C7BE5F0FD5C9CCF948AC45F2060A8BF9FA",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_smoke01b"
+			]
+		},
+		{
+			"ShaderMapHash": "BF9911C89FABA183B5A1D3CEEEEEA8E96962E3DF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "BBFDC1C866BC172EF00CD8FB5849AFC7F69D7986",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D5B0AFCAC78C1591E4A91A9A14B6429177281105",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_base"
+			]
+		},
+		{
+			"ShaderMapHash": "50C76DCBA6D7FED0DF2D3B030E81E0189C9E6243",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "FC05AECBB6C43F0C9D054FC16E9D7742BE56251B",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "0B060ECCC89DBABCC3EA1A8D089DB9CDE960943B",
+			"Assets": [
+				"/Game/MainGameMap"
+			]
+		},
+		{
+			"ShaderMapHash": "3D0F19CC7361117EB3A0355F67965EF7F9334854",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD"
+			]
+		},
+		{
+			"ShaderMapHash": "8C0647D0AFA7378A35E5B51369766B0B024C98D9",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/landscape_materials/M_landscape_material"
+			]
+		},
+		{
+			"ShaderMapHash": "128130D39319DE25F88D714910F49526CAC9652B",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/trees_materials/M_bark"
+			]
+		},
+		{
+			"ShaderMapHash": "454B80D53CBDEE8FC7D96EAFDCF707A54269823B",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_flare01_primitive",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_shine01R",
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_shine01R_nonD"
+			]
+		},
+		{
+			"ShaderMapHash": "C3FD79D70C7D43180B3DA1936C81EE2AF3486C2D",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "887B30DADE25E7729A909E806EBA25F58FF2FFA6",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "74801ADB3011D2ADD52B50FA51FC9F692AF3A7AA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B6B990DCABC87E7A3801CABC4A2FF493F7607750",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_Glass",
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/MI_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "E5A640DDBDC72AF2541EA57E33C96D9B71E22250",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/props_materials/M_statue"
+			]
+		},
+		{
+			"ShaderMapHash": "2A3A7CDE838125B6CF05A2E0169452FBC2B8593A",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DemoWall"
+			]
+		},
+		{
+			"ShaderMapHash": "5424A7E0A8EB60FCA2F17EF8B328D2BAF15BABC6",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0C50E2A666DE63D6471D555EFC383F401A08DD",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_dust01_4x4"
+			]
+		},
+		{
+			"ShaderMapHash": "6774EBE2C930726FABD59A828379C88D1292AC30",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "22211DE4BD8C975D330C5A9A89490F8D45F364F9",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_storm01"
+			]
+		},
+		{
+			"ShaderMapHash": "A0E28EE59861BF7F5BA23B4A610C34F652FE9F81",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "86C344E7A8C8E5AC32250965576F749DD29FBF8B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "122F0CE8B33F28CEE3FACDDA5E57E4F3E1A5CFF8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3E4B32E85DD1F807D11DFB2FB069FAD12993CB7C",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit"
+			]
+		},
+		{
+			"ShaderMapHash": "7AC2B6E89C89E8FE53D7131805F969283A4F8A3A",
+			"Assets": [
+				"/Game/MainGameMap"
+			]
+		},
+		{
+			"ShaderMapHash": "5CC663EA6CB06C07C0A58626E2C98C39706F7419",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "454D50EC0B07024F1C1BE2A62C61E14ABB17B554",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "34020DF2F43E4AE3EF6DD9A88A533C959E59A574",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_dynDust"
+			]
+		},
+		{
+			"ShaderMapHash": "333B16F25ECE86FED6640117A53D6B8F4D3185DC",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern"
+			]
+		},
+		{
+			"ShaderMapHash": "FF6A5EF2A3C767990A27ED872CC3F4B45A34618C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0433B9F2454DCF21CBE14C3CBF7FC82DD7834408",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_thatched_roof"
+			]
+		},
+		{
+			"ShaderMapHash": "850271F3A10369833C7451A6259DD2D774717A98",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_auraWall02_two"
+			]
+		},
+		{
+			"ShaderMapHash": "A52275F3BA41AD3188E60348D08D60167D74DE98",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "36FE9FF592D9B0C7A166B3FF48F7F692BD80045C",
+			"Assets": [
+				"/Game/3DAssets/initialShadingGroup",
+				"/Game/3DAssets/lambert2SG"
+			]
+		},
+		{
+			"ShaderMapHash": "4306C3F54929BF41854365B2BF8920A1DA024C42",
+			"Assets": [
+				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_block_foundation",
+				"/Game/SampleEnvironment/Asian_Village/materials/props_materials/M_flag_banner"
+			]
+		},
+		{
+			"ShaderMapHash": "873DE5F68628516B73469396367935437EE0C526",
+			"Assets": [
+				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_vortex04_4x4"
+			]
+		},
+		{
+			"ShaderMapHash": "079217FB82A46692AE3A18833BA01C09BE207528",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "165B27FB75A45DF79746C81BF2C27568E9B92858",
+			"Assets": [
+				"/Paper2D/TranslucentUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4B648BFC853119FA5D90F64245E5788DCC122DE5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFBE7FC5DB0A389B628028286CC1EBC4AFA7082",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		}
+	]
+}

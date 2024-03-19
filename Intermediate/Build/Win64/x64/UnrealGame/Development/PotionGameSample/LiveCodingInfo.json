@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PotionGameSample.cpp.obj": [
+			"PotionGameSample.cpp.obj"
+		]
+	}
+}

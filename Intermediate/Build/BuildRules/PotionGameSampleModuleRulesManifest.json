@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Yitong Lu\\Desktop\\EAE 3710\\EAE3710_PotionGame\\Intermediate\\Source\\PotionGameSample.Build.cs",
+		"C:\\Users\\Yitong Lu\\Desktop\\EAE 3710\\EAE3710_PotionGame\\Intermediate\\Source\\PotionGameSample.Target.cs",
+		"C:\\Users\\Yitong Lu\\Desktop\\EAE 3710\\EAE3710_PotionGame\\Intermediate\\Source\\PotionGameSampleClient.Target.cs",
+		"C:\\Users\\Yitong Lu\\Desktop\\EAE 3710\\EAE3710_PotionGame\\Intermediate\\Source\\PotionGameSampleEditor.Target.cs",
+		"C:\\Users\\Yitong Lu\\Desktop\\EAE 3710\\EAE3710_PotionGame\\Intermediate\\Source\\PotionGameSampleServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
