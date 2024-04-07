@@ -428,6 +428,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3BD08D5DD4A7284841FDC75CCD2BA7EC8AEAC6F7",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_Night"
+			]
+		},
+		{
 			"ShaderMapHash": "5B3E895F182400C76628BFB02C933FD7D47A309D",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
@@ -448,6 +454,7 @@
 		{
 			"ShaderMapHash": "78610362E856C7992CBEDD6930A8333EBF460B53",
 			"Assets": [
+				"/Game/ForestLevel01",
 				"/Game/MainGameMap"
 			]
 		},
@@ -468,12 +475,6 @@
 			"ShaderMapHash": "73BF1265460D78CD5CB82FDACF20BD1F51F4B4A9",
 			"Assets": [
 				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText"
-			]
-		},
-		{
-			"ShaderMapHash": "B8EC3365870E451011E5875068C1038FBB604F32",
-			"Assets": [
-				"/Game/MainGameMap"
 			]
 		},
 		{
@@ -564,6 +565,12 @@
 			"ShaderMapHash": "4FE7A77BB1784C19338987389C91E0C5F2E14847",
 			"Assets": [
 				"/Game/SampleEnvironment/Asian_Village/materials/sky_materials/M_sky"
+			]
+		},
+		{
+			"ShaderMapHash": "9E75AD7C2CAE4D248075B9716126672CB1DD5179",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
 			]
 		},
 		{
@@ -672,6 +679,12 @@
 			"ShaderMapHash": "51E2FD970CC35122B49C5FC4D34A6BAD0FEE925A",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E26D2498631A26F34E4A0F7A42EAEE33D35A6A37",
+			"Assets": [
+				"/Game/ForestLevel01"
 			]
 		},
 		{
@@ -820,12 +833,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9E7E9BBACE7366916CBB9C382E11AA04FF07EA35",
-			"Assets": [
-				"/Game/MainGameMap"
-			]
-		},
-		{
 			"ShaderMapHash": "A21DD3BB07B2D6829A4ACBAD60115EDAC4F5D6AA",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -906,6 +913,7 @@
 		{
 			"ShaderMapHash": "0B060ECCC89DBABCC3EA1A8D089DB9CDE960943B",
 			"Assets": [
+				"/Game/ForestLevel01",
 				"/Game/MainGameMap"
 			]
 		},
@@ -927,6 +935,12 @@
 			"ShaderMapHash": "128130D39319DE25F88D714910F49526CAC9652B",
 			"Assets": [
 				"/Game/SampleEnvironment/Asian_Village/materials/trees_materials/M_bark"
+			]
+		},
+		{
+			"ShaderMapHash": "F8985DD46A283998D7B407656099527408A36FBE",
+			"Assets": [
+				"/Game/Material/SampleLight_Blue"
 			]
 		},
 		{
@@ -1027,6 +1041,7 @@
 		{
 			"ShaderMapHash": "7AC2B6E89C89E8FE53D7131805F969283A4F8A3A",
 			"Assets": [
+				"/Game/ForestLevel01",
 				"/Game/MainGameMap"
 			]
 		},
@@ -1076,6 +1091,13 @@
 			"ShaderMapHash": "A52275F3BA41AD3188E60348D08D60167D74DE98",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E54D51F5395A2B9EA5FC2A9F6903270327A5FA20",
+			"Assets": [
+				"/Game/ForestLevel01",
+				"/Game/MainGameMap"
 			]
 		},
 		{

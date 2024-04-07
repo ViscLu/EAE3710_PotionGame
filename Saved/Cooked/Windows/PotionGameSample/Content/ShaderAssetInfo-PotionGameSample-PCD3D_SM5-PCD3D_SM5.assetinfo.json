@@ -232,6 +232,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DC4CD935238710170EBAB7B73E351BB3278C24F0",
+			"Assets": [
+				"/Game/Material/SampleLight_Blue"
+			]
+		},
+		{
 			"ShaderMapHash": "872626368C1153B9DDBCC2C8F8A3EC4823784141",
 			"Assets": [
 				"/Game/SampleEnvironment/Asian_Village/materials/building_materials/M_building_concrete_WPO"
@@ -290,6 +296,12 @@
 			"ShaderMapHash": "B42DFD3E6D57209A942B07F157D676BA3EAF29DA",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C4E56040B8B907C77C2516ECE47CCF09CAC8CA61",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_Night"
 			]
 		},
 		{
@@ -414,6 +426,7 @@
 		{
 			"ShaderMapHash": "90393C5E910A191C2CD2E5343158FAED70FF50C0",
 			"Assets": [
+				"/Game/ForestLevel01",
 				"/Game/MainGameMap"
 			]
 		},
@@ -429,6 +442,13 @@
 				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_dark",
 				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_fire",
 				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_storm01_thunder"
+			]
+		},
+		{
+			"ShaderMapHash": "C0B87766B04BEF02979E6D262B8F14D9AABBD5B7",
+			"Assets": [
+				"/Game/ForestLevel01",
+				"/Game/MainGameMap"
 			]
 		},
 		{
@@ -465,6 +485,12 @@
 			"ShaderMapHash": "C087616D2F76CC12BB17C57845C937E17046470E",
 			"Assets": [
 				"/Game/SampleEnvironment/Asian_Village/materials/water_materials/M_water_noise"
+			]
+		},
+		{
+			"ShaderMapHash": "FB1E816D8A896E6BA6F064CE1691A2CCDF820AFA",
+			"Assets": [
+				"/Engine/MapTemplates/Sky/M_Procedural_Sky_MASTER02"
 			]
 		},
 		{
@@ -530,6 +556,7 @@
 		{
 			"ShaderMapHash": "D52AE076A678CB897B0EB2992D134D34D035F9AC",
 			"Assets": [
+				"/Game/ForestLevel01",
 				"/Game/MainGameMap"
 			]
 		},
@@ -585,6 +612,12 @@
 			"ShaderMapHash": "ABFF267F4A5A10C4D79AF096123116690BC088D5",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "CD684182EDF32E5BDC60935D4427A2FC1F61A923",
+			"Assets": [
+				"/Game/ForestLevel01"
 			]
 		},
 		{
@@ -656,6 +689,7 @@
 		{
 			"ShaderMapHash": "2A089B9081E8E5D4D4761B29CBF3EC853311FBDA",
 			"Assets": [
+				"/Game/ForestLevel01",
 				"/Game/MainGameMap"
 			]
 		},
@@ -807,12 +841,6 @@
 			"ShaderMapHash": "CB6332ADC22C3798B26846855CAA457C49B9156A",
 			"Assets": [
 				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_stone02"
-			]
-		},
-		{
-			"ShaderMapHash": "C98F84B0A82B5F62879C61FEA7186ABEAA805090",
-			"Assets": [
-				"/Game/MainGameMap"
 			]
 		},
 		{
@@ -1054,12 +1082,6 @@
 			"ShaderMapHash": "4927A6EE827CB91675EF41CFDDA067ADA2E25093",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
-			]
-		},
-		{
-			"ShaderMapHash": "52843BF1C5AF7A701A6F217885727A981EAC1A43",
-			"Assets": [
-				"/Game/MainGameMap"
 			]
 		},
 		{
