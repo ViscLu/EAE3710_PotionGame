@@ -825,10 +825,12 @@
 		{
 			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
 			"Assets": [
+				"/Game/2DAssets/Ingredients/1_lambert4_BaseMap_Mat",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient01_Material",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient02_Material",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient03_Material",
-				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient04_Material"
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient04_Material",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/tree01Texture_Mat"
 			]
 		},
 		{
@@ -841,6 +843,12 @@
 			"ShaderMapHash": "CB6332ADC22C3798B26846855CAA457C49B9156A",
 			"Assets": [
 				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_stone02"
+			]
+		},
+		{
+			"ShaderMapHash": "C98F84B0A82B5F62879C61FEA7186ABEAA805090",
+			"Assets": [
+				"/Game/ForestLevel02"
 			]
 		},
 		{
@@ -896,6 +904,12 @@
 			"ShaderMapHash": "879668C01DDC1FEDDA9AEAB40E04B4138572BD52",
 			"Assets": [
 				"/Game/FX_Effect/FXVarietyPack/Materials/M_ky_starDust"
+			]
+		},
+		{
+			"ShaderMapHash": "8E9D6FC00BAB40DD65C10C4DA7407DCAA8DCFA40",
+			"Assets": [
+				"/Game/ForestLevel02"
 			]
 		},
 		{
@@ -1022,6 +1036,7 @@
 			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/3DAssets/base_material",
 				"/Game/3DAssets/ForestEnvironment/Material_0",
 				"/Game/3DAssets/ForestEnvironment/Material_1",
 				"/Game/3DAssets/ForestEnvironment/standardSurface1",
@@ -1082,6 +1097,12 @@
 			"ShaderMapHash": "4927A6EE827CB91675EF41CFDDA067ADA2E25093",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "52843BF1C5AF7A701A6F217885727A981EAC1A43",
+			"Assets": [
+				"/Game/ForestLevel02"
 			]
 		},
 		{

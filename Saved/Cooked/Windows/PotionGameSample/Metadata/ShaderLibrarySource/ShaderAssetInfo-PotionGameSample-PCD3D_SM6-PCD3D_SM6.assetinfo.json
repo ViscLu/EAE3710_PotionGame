@@ -104,6 +104,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A47B9615D100F4D340615C85DBD9D5C32556F342",
+			"Assets": [
+				"/Game/ForestLevel02"
+			]
+		},
+		{
 			"ShaderMapHash": "F41020167194BC7D7FF4809CE6A45F62FFA78E08",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Main"
@@ -112,10 +118,12 @@
 		{
 			"ShaderMapHash": "1323A416A7FD67AC95CDDC6E36D4BD08F8CD9238",
 			"Assets": [
+				"/Game/2DAssets/Ingredients/1_lambert4_BaseMap_Mat",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient01_Material",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient02_Material",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient03_Material",
-				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient04_Material"
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient04_Material",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/tree01Texture_Mat"
 			]
 		},
 		{
@@ -256,6 +264,7 @@
 			"ShaderMapHash": "FCE85F33CB5D23A0044C7F44EDA03BBC8E1CA022",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/3DAssets/base_material",
 				"/Game/3DAssets/ForestEnvironment/Material_0",
 				"/Game/3DAssets/ForestEnvironment/Material_1",
 				"/Game/3DAssets/ForestEnvironment/standardSurface1",
@@ -475,6 +484,12 @@
 			"ShaderMapHash": "73BF1265460D78CD5CB82FDACF20BD1F51F4B4A9",
 			"Assets": [
 				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText"
+			]
+		},
+		{
+			"ShaderMapHash": "B8EC3365870E451011E5875068C1038FBB604F32",
+			"Assets": [
+				"/Game/ForestLevel02"
 			]
 		},
 		{
@@ -830,6 +845,12 @@
 			"ShaderMapHash": "DC857FB8F8060046EDEE6832EE8C171CD9B6AD5B",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9E7E9BBACE7366916CBB9C382E11AA04FF07EA35",
+			"Assets": [
+				"/Game/ForestLevel02"
 			]
 		},
 		{
