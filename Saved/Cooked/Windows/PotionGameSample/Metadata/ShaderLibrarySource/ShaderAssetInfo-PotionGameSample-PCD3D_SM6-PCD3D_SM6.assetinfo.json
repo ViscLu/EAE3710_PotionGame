@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C230EE00CAA1C644AAE3B4FB2C81F2CB80CEBF06",
+			"Assets": [
+				"/Game/3DAssets/texture/lamp_lambert1_BaseColor_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "7EE540016627BB55050F3CF6BDB425FC8653DFAD",
 			"Assets": [
 				"/Game/FX_Effect/FXVarietyPack/Materials/MI_ky_circle9_4x4c2"
@@ -119,11 +125,19 @@
 			"ShaderMapHash": "1323A416A7FD67AC95CDDC6E36D4BD08F8CD9238",
 			"Assets": [
 				"/Game/2DAssets/Ingredients/1_lambert4_BaseMap_Mat",
+				"/Game/3DAssets/ForestEnvironment/flaxFlower_Mat",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/greenROse_Mat",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient01_Material",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient02_Material",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient03_Material",
 				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Ingredient04_Material",
-				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/tree01Texture_Mat"
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/med_berries_mat",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/orcs_blood_Mat",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/permafrostFlower_Mat",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/spiderSaliva_Mat",
+				"/Game/3DAssets/ForestEnvironment/orcBlood",
+				"/Game/3DAssets/ForestEnvironment/voidBerry01_Mat",
+				"/Game/3DAssets/texture/workBench01_Mat"
 			]
 		},
 		{
@@ -264,12 +278,30 @@
 			"ShaderMapHash": "FCE85F33CB5D23A0044C7F44EDA03BBC8E1CA022",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/3DAssets/base_material",
-				"/Game/3DAssets/ForestEnvironment/Material_0",
-				"/Game/3DAssets/ForestEnvironment/Material_1",
 				"/Game/3DAssets/ForestEnvironment/standardSurface1",
 				"/Game/3DAssets/lambert1",
-				"/Game/3DAssets/standardSurface1"
+				"/Game/3DAssets/lambert2",
+				"/Game/3DAssets/texture/base_material",
+				"/Game/3DAssets/texture/standardSurface1",
+				"/Game/MODELS/mimic",
+				"/Game/MODELS/pCube41",
+				"/Game/MODELS/pCube42",
+				"/Game/MODELS/pCube43",
+				"/Game/MODELS/pCube45",
+				"/Game/MODELS/pCube46",
+				"/Game/MODELS/pCube47",
+				"/Game/MODELS/pCube48",
+				"/Game/MODELS/pCube49",
+				"/Game/MODELS/pCube49_01",
+				"/Game/MODELS/pCube49_02",
+				"/Game/MODELS/pCube51",
+				"/Game/MODELS/pCube52",
+				"/Game/MODELS/pCube53",
+				"/Game/MODELS/pCube53_01",
+				"/Game/MODELS/pCube54",
+				"/Game/MODELS/pCube55",
+				"/Game/MODELS/pCube74",
+				"/Game/MODELS/PM3D_Sphere3D1"
 			]
 		},
 		{
@@ -493,6 +525,17 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7059B06661074F7443B44BAAE15206E622206D9B",
+			"Assets": [
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/Bowl01_Mat",
+				"/Game/3DAssets/ForestEnvironment/IngredientMaterial/tree01Texture_Mat",
+				"/Game/3DAssets/ForestEnvironment/TreeMaterial/treeTexture02_Mat",
+				"/Game/3DAssets/texture/GoldCoin_lambert1_BaseColor_Mat",
+				"/Game/3DAssets/texture/vial01Texture_Mat",
+				"/Game/3DAssets/texture/vial02Texture_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "CABB0D67112456D4C753E15475B208867C0C7B5E",
 			"Assets": [
 				"/Game/SampleEnvironment/Asian_Village/materials/water_materials/M_water_noise"
@@ -514,6 +557,13 @@
 			"ShaderMapHash": "3D345768528CF81A725E2DC6E89359A02A9F906F",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FB27F06AD0A8C98A92088E5997B1294B890EC16B",
+			"Assets": [
+				"/Game/3DAssets/texture/MerchantTexture_Mat",
+				"/Game/3DAssets/texture/mushroom_Uv_done_standardSurface1_BaseColor_Mat"
 			]
 		},
 		{
@@ -562,6 +612,12 @@
 			"ShaderMapHash": "F2171879C7CB478DB02F0EE6AD327D029A6947F0",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "CA851C7AA41B55BBB2D465BBE30F09FBF6C4E598",
+			"Assets": [
+				"/Game/3DAssets/texture/chest_lambert2_BaseColor_Mat"
 			]
 		},
 		{
@@ -697,12 +753,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E26D2498631A26F34E4A0F7A42EAEE33D35A6A37",
-			"Assets": [
-				"/Game/ForestLevel01"
-			]
-		},
-		{
 			"ShaderMapHash": "6604DD9881A34C46211043191CEF657CDE26F9AF",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
@@ -779,6 +829,12 @@
 			"ShaderMapHash": "16B507A89D20E23CFB0C7967AE0080A16CD3D243",
 			"Assets": [
 				"/Game/FX_Effect/FXVarietyPack/EpicContent/Materials/M_LightTube"
+			]
+		},
+		{
+			"ShaderMapHash": "510D13A8A30E91EC3D8162D786A2947CA4C9FB72",
+			"Assets": [
+				"/Game/3DAssets/texture/lambert1"
 			]
 		},
 		{
@@ -905,6 +961,12 @@
 			"ShaderMapHash": "BF9911C89FABA183B5A1D3CEEEEEA8E96962E3DF",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "A1352AC81FFA157DDF511ACF1BD04052818D4950",
+			"Assets": [
+				"/Game/3DAssets/texture/rock01_lambert1_BaseColor_Mat"
 			]
 		},
 		{
@@ -1124,8 +1186,9 @@
 		{
 			"ShaderMapHash": "36FE9FF592D9B0C7A166B3FF48F7F692BD80045C",
 			"Assets": [
-				"/Game/3DAssets/initialShadingGroup",
-				"/Game/3DAssets/lambert2SG"
+				"/Game/3DAssets/texture/initialShadingGroup",
+				"/Game/3DAssets/texture/lambert2SG",
+				"/Game/MODELS/standardSurface1"
 			]
 		},
 		{

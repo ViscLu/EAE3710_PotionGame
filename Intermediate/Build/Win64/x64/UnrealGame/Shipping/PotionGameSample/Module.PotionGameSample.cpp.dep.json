@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yitong lu\\desktop\\eae 3710\\eae3710_potiongame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\potiongamesample\\module.potiongamesample.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\yitong lu\\desktop\\eae 3710\\eae3710_potiongame\\intermediate\\build\\win64\\x64\\potiongamesample\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\yitong lu\\desktop\\eae 3710\\eae3710_potiongame\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\potiongamesample\\definitions.potiongamesample.h",
+            "c:\\users\\yitong lu\\desktop\\eae 3710\\eae3710_potiongame\\intermediate\\source\\potiongamesample.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
